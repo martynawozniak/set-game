@@ -9,8 +9,8 @@ This project was implemented as part of an academic assignment in the course **I
 ## Project Structure
 ```bash
 ├── set_simulator.c   # Main program source code
-├── example1.in       # Example input file
-├── example1.out      # Expected output for example1.in
+├── example1.in       # Example input and output files are provided externally
+├── example1.out
 ├── example2.in
 ├── example2.out
 ├── example3.in
