@@ -22,10 +22,10 @@ This project was implemented as part of an academic assignment in the course **I
 
 - SET is a real-time card game played with **81 unique cards**.  
 - Each card has **4 attributes**, each taking one of **3 values**:
-  1. **Number of symbols**: 1, 2, or 3  
-  2. **Color**: red, green, or purple  
-  3. **Shading**: empty, striped, or solid  
-  4. **Shape**: diamond, squiggle, or oval  
+1. **Number of symbols**: 1, 2, or 3  
+2. **Color**: red, green, or purple  
+3. **Shading**: empty, striped, or solid  
+4. **Shape**: diamond, squiggle, or oval  
 
 - A **SET** is a group of three cards where, for each attribute, the values are either:
   - all the same, or  
